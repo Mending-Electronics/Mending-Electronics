@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/126720078?v=4" align="center" height="100" width="100" />
-<img src="https://media.licdn.com/dms/image/v2/C5603AQF5SRk2mwAdjw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1527957573138?e=2147483647&v=beta&t=cLZ6FaBnKHf00BPS7iQ2UsDPWI0l8eRKnMvQyP-oQRU" align="center" height="100" width="100" style="border-radius: 50%;margin-left: 20px" />
 </div>  
 
 
@@ -162,12 +161,6 @@ I am highly motivated to create open-source solutions that can benefit the wider
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
 
 
 <br/>  
