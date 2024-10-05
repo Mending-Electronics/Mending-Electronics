@@ -30,10 +30,10 @@ I am highly motivated to create open-source solutions that can benefit the wider
 
 ### Designer UI/UX  
 <div align="center">  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/figma.svg" alt="Figma" height="50" /></a>  
-<a href="https://inkscape.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/inkscape.svg" alt="Inkscape" height="50" /></a>  
-<a href="https://www.gimp.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/gimp.svg" alt="Gimp" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/photoshop.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/figma.svg" alt="Figma" height="50" /></a>  
+<a href="https://inkscape.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/inkscape.svg" alt="Inkscape" height="50" /></a>  
+<a href="https://www.gimp.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/gimp.svg" alt="Gimp" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/photoshop.svg" alt="Photoshop" height="50" /></a>  
 </div>
 
 </td>  
@@ -41,13 +41,13 @@ I am highly motivated to create open-source solutions that can benefit the wider
 
 ### DevOps  
 <div align="center">  
-<a href="https://www.microsoft.com/fr-fr/windows?r=1" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/windows11.svg" alt="Windows" height="60" /></a> 
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/linux.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/git.svg" alt="Git" height="50" /></a> 
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/docker.svg" alt="Docker" height="50" /></a>
-<a href="https://docs.pytest.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/pytest.svg" alt="Pytest" height="50" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/bash.svg" alt="Bash" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/powershell.svg" alt="PowerShell" height="50" /></a>  
+<a href="https://www.microsoft.com/fr-fr/windows?r=1" target="_blank"><img style="margin: 5px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/windows11.svg" alt="Windows" height="60" /></a> 
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/linux.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/git.svg" alt="Git" height="50" /></a> 
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/docker.svg" alt="Docker" height="50" /></a>
+<a href="https://docs.pytest.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/pytest.svg" alt="Pytest" height="50" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/bash.svg" alt="Bash" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/powershell.svg" alt="PowerShell" height="50" /></a>  
 
 </div>  
 
@@ -61,17 +61,17 @@ I am highly motivated to create open-source solutions that can benefit the wider
 
 ### Frontend  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/" alt="HTML5" height="50" /></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/" alt="JavaScript" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/" alt="Sass" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/5.3" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/" alt="Bootstrap" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/" alt="jQuery" height="50" /></a>
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/" alt="Vue.js" height="50" /></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/html5.svg" alt="HTML5" height="50" /></a> 
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/css3.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/javascript.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/sass.svg" alt="Sass" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/5.3" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/bootstrap.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/jquery.svg" alt="jQuery" height="50" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/vuejs.svg" alt="Vue.js" height="50" /></a> 
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="60" /></a>  
 <!-- <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>   -->
 <!-- <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>   -->
-<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23f0f6fc/" alt="qt" height="40"/> </a>  
+<a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/qt.svg" alt="qt" height="40"/> </a>  
 </div>  
 
 
