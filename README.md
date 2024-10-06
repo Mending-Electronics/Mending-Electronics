@@ -124,14 +124,16 @@ I am highly motivated to create open-source solutions that can benefit the wider
 
 ### Industrial Machining  
 <div align="center">  
-<a href="https://www.num.com/fr/produits/commande-cnc/#:~:text=Un%20syst%C3%A8me%20CNC%20tel%20que%20celui%20d%C3%A9velopp%C3%A9" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/num.svg" alt="Num" height="50" /></a>  
-<a href="https://www.fanuc.eu/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/fanuc.svg" alt="Fanuc" height="50" /></a>  
-<a href="https://www.heidenhain.fr/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/heidenhain.svg" alt="Heidenhain" height="50" /></a> 
-<a href="https://www.siemens.com/global/en.html" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/siemens.svg" alt="Siemens" height="50" /></a> 
+<a href="https://www.num.com/fr/produits/commande-cnc/#:~:text=Un%20syst%C3%A8me%20CNC%20tel%20que%20celui%20d%C3%A9velopp%C3%A9" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/num.svg" alt="Num" height=70" /></a>  
+<a href="https://www.fanuc.eu/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/fanuc.svg" alt="Fanuc" height="70" /></a>  
+<a href="https://www.heidenhain.fr/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/heidenhain.svg" alt="Heidenhain" height="70" /></a> 
+<a href="https://www.siemens.com/global/en.html" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/siemens.svg" alt="Siemens" height="70" /></a> 
+<a href="https://www.staubli.com/fr/fr/home.html#:~:text=St%C3%A4ubli%20est%20un%20groupe%20international%20qui" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/staubli.svg" alt="staubli" height="70" /></a> 
+<a href="https://www.metromec.ch/de/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/wenzel.svg" alt="Wenzel" height="70" /></a> 
 <a href="https://hexagon.com/fr" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/hexagon.svg" alt="Hexagon" height="50" /></a> 
 <a href="https://www.zeiss.fr/metrologie/produits/logiciels/calypso/calypso.html#:~:text=ZEISS%20CALYPSO%20est%20un%20logiciel%20polyvalent" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/zeiss.svg" alt="Zeiss" height="50" /></a> 
-<a href="https://www.metromec.ch/de/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/wenzel.svg" alt="Wenzel" height="50" /></a> 
-<a href="https://www.staubli.com/fr/fr/home.html#:~:text=St%C3%A4ubli%20est%20un%20groupe%20international%20qui" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/staubli.svg" alt="staubli" height="50" /></a> 
+
+
 </div>
 
 </td>
