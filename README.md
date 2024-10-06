@@ -75,6 +75,7 @@ I am highly motivated to create open-source solutions that can benefit the wider
 <!-- <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>   -->
 <!-- <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>   -->
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/qt.svg" alt="qt" height="50"/> </a>  
+<a href="https://wiki.qt.io/Qt_for_Python" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/pyside2.svg" alt="Pyside" height="50"/> </a>  
 </div>  
 
 
@@ -116,6 +117,7 @@ I am highly motivated to create open-source solutions that can benefit the wider
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/raspberrypi.svg" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/espressif.svg" alt="Espressif" height="50" /></a> 
 <a href="https://forum.seeedstudio.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/seeedstudio.svg" alt="Seeedstudio" height="50" /></a> 
+<a href="https://www.adafruit.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/adafruit.svg" alt="Adafruit" height="50" /></a> 
 <a href="https://fritzing.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/fritzing.svg" alt="fritzing" height="50" /></a> 
 <a href="https://appinventor.mit.edu/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/mitappinventor.svg" alt="MIT App Inventor" height="50" /></a>  
 <a href="https://thunkable.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/thunkable.svg" alt="Thunkable" height="50" /></a>  
@@ -131,8 +133,8 @@ I am highly motivated to create open-source solutions that can benefit the wider
 <div align="center">  
 <a href="https://www.mastercam.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/mastercam.svg" alt="Mastercam" height=70" /></a>  
 <a href="https://www.topsolid.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/topsolid.svg" alt="Topsolid" height=70" /></a>  
-<a href="https://www.robotmaster.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/robotmaster.svg" alt="Robotmaster" height=70" /></a> 
-<a href="https://www.solidworks.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/solidworks.svg" alt="Solidworks" height=70" /></a>    
+<a href="https://www.robotmaster.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/robotmaster.svg" alt="Robotmaster" height=50" /></a> 
+<a href="https://www.solidworks.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/solidworks.svg" alt="Solidworks" height=50" /></a>    
 <a href="https://www.num.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/num.svg" alt="Num" height=70" /></a>  
 <a href="https://www.fanuc.eu/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/fanuc.svg" alt="Fanuc" height="70" /></a>  
 <a href="https://www.heidenhain.fr/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/heidenhain.svg" alt="Heidenhain" height="70" /></a> 
