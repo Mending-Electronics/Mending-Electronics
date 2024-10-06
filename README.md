@@ -117,7 +117,6 @@ I am highly motivated to create open-source solutions that can benefit the wider
 <a href="https://forum.seeedstudio.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/seeedstudio.svg" alt="Seeedstudio" height="50" /></a> 
 <a href="https://fritzing.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/fritzing.svg" alt="fritzing" height="50" /></a>  
 <a href="https://micropython.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/micropython.svg" alt="MicroPython" height="50" /></a>  
-<a href="https://circuitpython.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/circuitpython.svg" alt="Circuitpython" height="50" /></a> 
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/cplusplus.svg" alt="C++" height="50" /></a>  
 </div>
 
