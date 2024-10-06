@@ -33,7 +33,8 @@ I am highly motivated to create open-source solutions that can benefit the wider
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/figma.svg" alt="Figma" height="50" /></a>  
 <a href="https://inkscape.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/inkscape.svg" alt="Inkscape" height="50" /></a>  
 <a href="https://www.gimp.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/gimp.svg" alt="Gimp" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/photoshop.svg" alt="Photoshop" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/photoshop.svg" alt="Photoshop" height="50" /></a> 
+<a href="https://lottiefiles.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/lottiefiles.svg" alt="Lottiefiles" height="50" /></a>  
 </div>
 
 </td>  
