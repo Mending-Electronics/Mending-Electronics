@@ -69,7 +69,7 @@ I am highly motivated to create open-source solutions that can benefit the wider
 <a href="https://getbootstrap.com/docs/5.3" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/bootstrap.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/jquery.svg" alt="jQuery" height="50" /></a>
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/vuejs.svg" alt="Vue.js" height="50" /></a> 
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="60" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/chartjs.svg" alt="Chart.js" height="50" /></a>  
 <!-- <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>   -->
 <!-- <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>   -->
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/qt.svg" alt="qt" height="50"/> </a>  
@@ -82,7 +82,7 @@ I am highly motivated to create open-source solutions that can benefit the wider
 
 ### Backend  
 <div align="center">
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/python.svg" alt="Python" height="55"/></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/python.svg" alt="Python" height="50"/></a>  
 <!-- <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/ruby.svg" alt="Ruby" height="50"/></a> -->
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/php.svg" alt="PHP" height="50"/></a> 
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/nodejs.svg" alt="Node.js" height="50"/></a>  
@@ -91,10 +91,10 @@ I am highly motivated to create open-source solutions that can benefit the wider
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/mariadb.svg" alt="Maria DB" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/postgresql.svg" alt="PostgreSQL" height="50"/></a>  
 <a href="https://www.sqlite.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/sqlite.svg" alt="sqlite" height="50"/></a> 
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/django.svg" alt="Django" height="60"/></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/django.svg" alt="Django" height="50"/></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/flask2.svg" alt="Flask" height="50"/></a> 
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/wordpress.svg" alt="WordPress" height="50"/></a> 
-<a href="https://nodered.org/" target="_blank"><img style="margin: 10px" src=https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/node-red.svg" alt="Node-Red" height="50"/></a>  
+<a href="https://nodered.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/node-red.svg" alt="Node-Red" height="50"/></a>  
 </div>
 
 </td>  
@@ -114,7 +114,7 @@ I am highly motivated to create open-source solutions that can benefit the wider
 <a href="https://forum.seeedstudio.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/seeedstudio.svg" alt="Seeedstudio" height="50" /></a> 
 <a href="https://fritzing.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/fritzing.svg" alt="fritzing" height="50" /></a>  
 <a href="https://micropython.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/micropython.svg" alt="MicroPython" height="50" /></a>  
-<a href="https://circuitpython.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/circuitpython.svg" alt="Circuitpython" height="60" /></a> 
+<a href="https://circuitpython.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/circuitpython.svg" alt="Circuitpython" height="50" /></a> 
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/cplusplus.svg" alt="C++" height="50" /></a>  
 </div>
 
@@ -124,14 +124,14 @@ I am highly motivated to create open-source solutions that can benefit the wider
 
 ### Industrial Machining  
 <div align="center">  
-<a href="https://www.num.com/fr/produits/commande-cnc/#:~:text=Un%20syst%C3%A8me%20CNC%20tel%20que%20celui%20d%C3%A9velopp%C3%A9" target="_blank"><img style="margin: 15px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/num.svg" alt="Num" height="20" /></a>  
-<a href="https://www.fanuc.eu/" target="_blank"><img style="margin: 20px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/fanuc.svg" alt="Fanuc" height="20" /></a>  
-<a href="https://www.heidenhain.fr/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/heidenhain.svg" alt="Heidenhain" height="40" /></a> 
-<a href="https://www.siemens.com/global/en.html" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/siemens.svg" alt="Siemens" height="35" /></a> 
-<a href="https://hexagon.com/fr" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/hexagon.svg" alt="Hexagon" height="55" /></a> 
-<a href="https://www.zeiss.fr/metrologie/produits/logiciels/calypso/calypso.html#:~:text=ZEISS%20CALYPSO%20est%20un%20logiciel%20polyvalent" target="_blank"><img style="margin: px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/zeiss.svg" alt="Zeiss" height="60" /></a> 
-<a href="https://www.metromec.ch/de/" target="_blank"><img style="margin: 20px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/wenzel.svg" alt="Wenzel" height="25" /></a> 
-<a href="https://www.staubli.com/fr/fr/home.html#:~:text=St%C3%A4ubli%20est%20un%20groupe%20international%20qui" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/staubli.svg" alt="staubli" height="30" /></a> 
+<a href="https://www.num.com/fr/produits/commande-cnc/#:~:text=Un%20syst%C3%A8me%20CNC%20tel%20que%20celui%20d%C3%A9velopp%C3%A9" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/num.svg" alt="Num" height="50" /></a>  
+<a href="https://www.fanuc.eu/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/fanuc.svg" alt="Fanuc" height="50" /></a>  
+<a href="https://www.heidenhain.fr/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/heidenhain.svg" alt="Heidenhain" height="50" /></a> 
+<a href="https://www.siemens.com/global/en.html" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/siemens.svg" alt="Siemens" height="50" /></a> 
+<a href="https://hexagon.com/fr" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/hexagon.svg" alt="Hexagon" height="50" /></a> 
+<a href="https://www.zeiss.fr/metrologie/produits/logiciels/calypso/calypso.html#:~:text=ZEISS%20CALYPSO%20est%20un%20logiciel%20polyvalent" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/zeiss.svg" alt="Zeiss" height="50" /></a> 
+<a href="https://www.metromec.ch/de/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/wenzel.svg" alt="Wenzel" height="50" /></a> 
+<a href="https://www.staubli.com/fr/fr/home.html#:~:text=St%C3%A4ubli%20est%20un%20groupe%20international%20qui" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%233d444d/staubli.svg" alt="staubli" height="50" /></a> 
 </div>
 
 </td>
