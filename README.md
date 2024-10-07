@@ -172,7 +172,7 @@ I am highly motivated to create open-source solutions that can benefit the wider
 
 
 
-
+<!-- 
 <br/>  
 
 <div align="center">
@@ -188,10 +188,13 @@ I am highly motivated to create open-source solutions that can benefit the wider
               src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
               align="center"
           />
-      </a></div>  
+      </a>
+</div>  
 
 <br/>  
 
 
 <br />
+
+-->
 
