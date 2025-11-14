@@ -10,13 +10,32 @@ I'm from an Industrial Machining background. After programming machines and robo
 
 I am highly motivated to create open-source solutions that can benefit the wider community. By contributing to open-source projects, I aim to foster collaboration, innovation, and transparency in software development. I believe that sharing knowledge and resources can lead to more robust and versatile applications, ultimately driving technological advancement and making high-quality software accessible to everyone. 🚀
 
-- Create responsive, reactive, and useful web front-end apps using HTML, Bootstrap, jQuery, and Vue.js
-- Build maintainable and robust back-end servers with Python Django and industrial databases such as MariaDB or PostgreSQL
-- Develop quick back-end server apps with Python Flask or Node-Red
-- Maintain or build back-end development in PHP 
-- Create maintainable and versatile software GUIs using Qt or PySide with Python
-- Develop embedded solutions on Arduino, Raspberry Pi, Seeeduino, or ESP boards using C++, MicroPython, or CircuitPython
-- Create industrial user-friendly dashboards with Power BI to return database data
+I prefer to use free and open-source tools (FOSS) for development—frameworks, databases, caching, build, and CI/CD.
+
+My typical stack by context:
+
+  - <b>Microservice full-stack web application</b>
+    - node back-end [Python]: `Flask / FastAPI` (serve)
+    - node front-end [Node JS]: `Vite + Vue 3 + Bootstrap 5`
+    - node NoSQL caching database: `Redis`
+    - node persistent database: `PostgreSQL`
+
+  - <b>Quick and light full-stack web application with CLI & API</b>
+    - node full-stack [Python]: `Flask / FastAPI` using `Vue 3` and `Bootstrap 5` in Jinja templates
+
+  - <b>Monolithic full-stack web application</b>
+    - node full-stack [Python]: `Django` (serve)
+
+  - <b>Quick full-stack application for embedded devices (e.g., RPi 3B+)</b>
+    - node full-stack [Node JS]: `Node-RED` using `Vue 3` and `Bootstrap 5` in templates
+
+  - <b>Cross-platform full-stack application with a single codebase (web, desktop, mobile, TV, smartwatches)</b>
+    - `Dart + Flutter + vendor SDKs`
+
+  - <b>Maintain or build back-end development in `PHP`</b>
+  - <b>Create maintainable and versatile software GUIs using `Qt` or `PySide` with `Python`</b>
+  - <b>Develop embedded solutions on `Arduino`, `Raspberry Pi`, `Seeeduino`, or `ESP boards` using `C++`, `MicroPython`, or `CircuitPython`</b>
+  - <b>Create industrial user-friendly dashboards with `Power BI` to return database data</b>
 
 
 <br/>  
