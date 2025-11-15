@@ -65,13 +65,14 @@ My typical stack by context:
 <a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/android.svg" alt="Android" height="50" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/bash.svg" alt="Bash" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/powershell.svg" alt="PowerShell" height="50" /></a>  
+<a href="https://www.atlassian.com/fr/software/jira" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/jira.svg" alt="Jira" height="50" /></a>
+<a href="https://filezilla-project.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/filezilla.svg" alt="Filezilla" height="50" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/git.svg" alt="Git" height="50" /></a> 
 <a href="https://gitlab.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/gitlab.svg" alt="GitLab" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/docker.svg" alt="Docker" height="50" /></a>
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/kubernetes.svg" alt="Kubernetes" height="50" /></a>
-<a href="https://filezilla-project.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/filezilla.svg" alt="Filezilla" height="50" /></a>
 <a href="https://docs.pytest.org/en/stable/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/pytest.svg" alt="Pytest" height="50" /></a>
-<a href="https://www.atlassian.com/fr/software/jira" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/jira.svg" alt="Jira" height="50" /></a>
+
 
 </div>  
 
@@ -120,7 +121,7 @@ My typical stack by context:
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/mariadb.svg" alt="Maria DB" height="50" /></a> 
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/postgresql.svg" alt="PostgreSQL" height="50"/></a>  
 <a href="https://www.sqlite.org/" target="_blank"> <img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/sqlite.svg" alt="sqlite" height="50"/></a> 
-<a href="https://pub.dev/documentation/hive/latest/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/hive.svg" alt="Hive" height="50"/></a>
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/redis.svg" alt="Redis" height="50"/></a>
 
 </div>
 
@@ -137,7 +138,8 @@ My typical stack by context:
 ### Mobile Apps 
 <div align="center">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/flutter.svg" alt="Flutter" height="50" /></a>  
-<a href="dart.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/dart.svg" alt="Dart" height="50" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/dart.svg" alt="Dart" height="50" /></a> 
+<a href="https://pub.dev/documentation/hive/latest/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/hive.svg" alt="Hive" height="50"/></a>
 <a href="https://appinventor.mit.edu/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/mitappinventor.svg" alt="MIT App Inventor" height="50" /></a>  
 <a href="https://thunkable.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/Mending-Electronics/assets/refs/heads/main/devicon/%23545d69/thunkable.svg" alt="Thunkable" height="50" /></a>  
 
