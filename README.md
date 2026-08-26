@@ -116,11 +116,6 @@ Professional dashboards for industrial environments:
 - Interactive visualizations  
 - User-friendly reporting interfaces  
 
----
-
-
-
-
 
 ---
 
