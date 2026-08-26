@@ -12,30 +12,117 @@ I am highly motivated to create open-source solutions that can benefit the wider
 
 I prefer to use free and open-source tools (FOSS) for development—frameworks, databases, caching, build, and CI/CD.
 
-My typical stack by context:
 
-  - <b>Microservice full-stack web application</b>
-    - node back-end [Python]: `Flask / FastAPI` (serve)
-    - node front-end [Node JS]: `Vite + Vue 3 + Bootstrap 5`
-    - node NoSQL caching database: `Redis`
-    - node persistent database: `PostgreSQL`
+# 🧰 My Full-Stack Stack
 
-  - <b>Quick and light full-stack web application with CLI & API</b>
-    - node full-stack [Python]: `Flask / FastAPI` using `Vue 3` and `Bootstrap 5` in Jinja templates
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white)
+![VueJS](https://img.shields.io/badge/VueJS-42b883?logo=vuedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?logo=python&logoColor=white)
 
-  - <b>Monolithic full-stack web application</b>
-    - node full-stack [Python]: `Django` (serve)
+ ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mending-Electronics&theme=tokyonight)
 
-  - <b>Quick full-stack application for embedded devices (e.g., RPi 3B+)</b>
-    - node full-stack [Node JS]: `Node-RED` using `Vue 3` and `Bootstrap 5` in templates
+---
 
-  - <b>Cross-platform full-stack application with a single codebase (web, desktop, mobile, TV, smartwatches)</b>
-    - `Dart + Flutter + vendor SDKs`
+## 📲 **Cross-Platform** Client Applications
 
-  - <b>Maintain or build back-end development in `PHP`</b>
-  - <b>Create maintainable and versatile software GUIs using `Qt` or `PySide` with `Python`</b>
-  - <b>Develop embedded solutions on `Arduino`, `Raspberry Pi`, `Seeeduino`, or `ESP boards` using `C++`, `MicroPython`, or `CircuitPython`</b>
-  - <b>Create industrial user-friendly dashboards with `Power BI` to return database data</b>
+###  **Flutter (Dart)**
+Single codebase for multi‑platform apps:
+- Android & iOS (phones, tablets, watches, TV boxes & sticks)
+- Linux, macOS, Windows
+- Web
+- Embedded devices running lightweight OS (e.g., Raspberry Pi without desktop environment)
+
+### 🌐 **Web** Client Applications
+
+Modern, fast, and modular:
+- **Deno** (secure JS runtime)
+- **Vite** (ultra-fast bundler)
+- **VueJS 3** + **Vue Router** (SPA with reusable JS components)
+- **Bootstrap 5** + **Bootstrap Icons** (ready-to-use dark/light mode and JS/CSS components)
+
+### 🖥️ Desktop Client Applications
+
+### **Qt5 / PySide (Python)**
+Building maintainable and versatile desktop GUIs:
+- Compatible with older hardware or machines without GPU
+- Clean separation between frontend and backend 
+
+---
+
+## 🛠️ Web Back-end Applications
+
+### **Supabase and Neon** 
+- currently exploring these platforms to add a simple Flutter backend 
+
+### **FastAPI (Python)**
+High-performance API framework used for:
+- Flutter/Dart clients  
+- JS clients (Deno)  
+- Typed microservices  
+
+### **Flask (Python)**
+Lightweight full-stack web apps:
+- HTML templates  
+- Full SPA delivered to the client using  
+  **VueJS 3 + Vue Router + Bootstrap 5 + Bootstrap Icons**  
+- Assets via CDN or local `*.min.js` / `*.min.css` files
+- ORM
+- Complete MVC architecture
+
+### **Django (Python)**
+Robust monolithic applications:
+
+### **PHP + PHPMyAdmin**
+Legacy systems support  
+
+---
+
+## ⚙️ Backend Libraries & High-Performance Modules
+
+### **Rust**
+For creating high-performance native modules:
+- Python packages using **PyO3** + **Maturin**  
+- Precompiled cross-platform libraries usable in **Dart**
+
+---
+
+## 🔌 Embedded & Electronics Development
+
+### **MicroPython**
+Rapid prototyping on ESP32:
+- Ideal until reaching MicroPython firmware limits
+
+### **PlatformIO + C++**
+Advanced firmware development:
+- Modify and build vendor firmware  
+- Customization of projects such as **Meshtastic**
+
+---
+
+## 📊 Industrial Dashboards
+
+### **Power BI / Grafana**
+Professional dashboards for industrial environments:
+- Database connectivity  
+- Interactive visualizations  
+- User-friendly reporting interfaces  
+
+---
+
+
+
+
+
+---
 
 
 <br/>  
@@ -224,8 +311,14 @@ My typical stack by context:
 <br/>  
 
 
+<!--
+
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mending-Electronics&hide_border=true&layout=compact" align="center" /></div>  
+
+<div align="center">
+ 
+-->
+</div>  
 
 <br/>  
 
